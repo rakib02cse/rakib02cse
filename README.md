@@ -12,7 +12,7 @@ Passionate about solving real-world problems with technology, I am a graduate so
 | 📫 **Email Me**            | **[rakib02cse@gmail.com] ** |
 <!-- | 👨🏻‍💻 **Portfolio**        | **[Portfolio](https://mostafejur.netlify.app/)**                       |
 | 🕵 **Social Links**         | **[Socials](https://mostafejur21.github.io/mostafejur/)**             | -->
-| 📄 **Resume**              | **[Resume](https://drive.google.com/drive/folders/1LHqhkaUopsdP1EzOAZfD0INkk7MXVC9H)** |
+| 📄 **Resume**              | **[Resume](https://drive.google.com/file/d/1H63Epbm0DoFCoLdm62W2rxeWWN7LHfEB/view?usp=sharing)** |
                                                 |
 
 
