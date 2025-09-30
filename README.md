@@ -9,7 +9,7 @@ Passionate about solving real-world problems with technology, I am a graduate so
 | 🌱 **Currently Learning**  | **Dart**                                               |
 |----------------------------|------------------------------------------------------------------------|
 | 💬 **Ask Me About**        | **Dart, C++, Flutter**                                                |
-| 📫 **Email Me**            | **[info.mostafejur21@gmail.com](mailto:info.rakib02cse@gmail.com), [mostafejur.smuct.cse@gmail.com](mailto:rakib02cse@gmail.com)** |
+| 📫 **Email Me**            | **[rakib02cse@gmail.com](mailto:rakib02cse@gmail.com), (mailto:rakib02cse@gmail.com)** |
 <!-- | 👨🏻‍💻 **Portfolio**        | **[Portfolio](https://mostafejur.netlify.app/)**                       |
 | 🕵 **Social Links**         | **[Socials](https://mostafejur21.github.io/mostafejur/)**             | -->
 | 📄 **Resume**              | **[Resume](https://drive.google.com/drive/folders/1LHqhkaUopsdP1EzOAZfD0INkk7MXVC9H)** |
@@ -21,13 +21,13 @@ Passionate about solving real-world problems with technology, I am a graduate so
 
 | **Category**      | **Technologies**                                                                 |
 |--------------------|---------------------------------------------------------------------------------|
-| **Languages**      | `dart`, `Golang`, `JavaScript`, `C++`, `SQL`                                   |
-| **Backend**        | `GO`, `Node.js`                                                                |
+| **Languages**      | `dart`, `C++`, `SQL`                                   |
+<!-- | **Backend**        | `GO`, `Node.js`                                                                | -->
 | **Frontend**       | `Flutter`                                                                      |
-| **Database**       | `PostgreSQL`, `SQL`                                                            |
+| **Database**       | `SQL`                                                            |
 | **Tools**          | `Git`, `GitHub Workflow`                                                       |
-| **Cloud**          | `Firebase`,`SupaBase`                                                          |
-| **Productivity**   | `Jira`, `MS PowerPoint`, `Canva`                                               |
+| **Cloud**          | `Firebase`                                                       |
+| **Productivity**   | `MS PowerPoint`, `Canva`                                               |
 <!--
 ### Languages
 
@@ -68,5 +68,5 @@ Passionate about solving real-world problems with technology, I am a graduate so
 
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mostafejur21/count.svg" />
+ <!-- <img src="https://profile-counter.glitch.me/mostafejur21/count.svg" /> -->
 </p>
