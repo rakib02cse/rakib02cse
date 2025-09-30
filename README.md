@@ -64,7 +64,8 @@ Passionate about solving real-world problems with technology, I am a graduate so
 
 | Streak | State |
 | -------- | ------- |
-| <img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mostafejur21&show_icons=true" />   &nbsp;| <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafejur21&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mostafejur21" /></p> |
+| <img align="left" alt="Rakib Hossain's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rakib02cse&show_icons=true" />   &nbsp;| <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib02cse&show_icons=true&locale=en&layout=compact&theme=dracula" alt="rakib02cse" /></p> |
+
 
 <p align="center">
   Visitor count<br>
