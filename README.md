@@ -6,13 +6,13 @@
 ### 🌟 About Me
 Passionate about solving real-world problems with technology, I am a graduate software engineer specializing in Flutter app development, Node.js backend, and cloud technologies. I love crafting modern, user-friendly apps and exploring innovative solutions in the tech space.
 
-| 🌱 **Currently Learning**  | **GO**                                               |
+| 🌱 **Currently Learning**  | **Dart**                                               |
 |----------------------------|------------------------------------------------------------------------|
-| 💬 **Ask Me About**        | **Flutter, C++, Dart, Go**                                                |
-| 📫 **Email Me**            | **[info.mostafejur21@gmail.com](mailto:info.mostafejur21@gmail.com), [mostafejur.smuct.cse@gmail.com](mailto:mostafejur.smuct.cse@gmail.com)** |
-| 👨🏻‍💻 **Portfolio**        | **[Portfolio](https://mostafejur.netlify.app/)**                       |
-| 🕵 **Social Links**         | **[Socials](https://mostafejur21.github.io/mostafejur/)**             |
-| 📄 **Resume**              | **[Resume](https://drive.google.com/file/d/15pxbgmNoW9sQqvXWFO3fyVkOVgaZEtYw/view?usp=sharing)** |
+| 💬 **Ask Me About**        | **Dart, C++, Flutter**                                                |
+| 📫 **Email Me**            | **[info.mostafejur21@gmail.com](mailto:info.rakib02cse@gmail.com), [mostafejur.smuct.cse@gmail.com](mailto:rakib02cse@gmail.com)** |
+<!-- | 👨🏻‍💻 **Portfolio**        | **[Portfolio](https://mostafejur.netlify.app/)**                       |
+| 🕵 **Social Links**         | **[Socials](https://mostafejur21.github.io/mostafejur/)**             | -->
+| 📄 **Resume**              | **[Resume](https://drive.google.com/drive/folders/1LHqhkaUopsdP1EzOAZfD0INkk7MXVC9H)** |
 | ⚡ **Daily Driver**         | **Linux and Neovim**                                                 |
 
 
