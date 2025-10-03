@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/>
 
 ### 🌟 About Me
-Passionate about solving real-world problems with technology, I am a graduate software engineer specializing in Flutter app development, Node.js backend, and cloud technologies. I love crafting modern, user-friendly apps and exploring innovative solutions in the tech space.
+Passionate about solving real-world problems with technology, I am a graduate software engineer specializing in Flutter app development and cloud technologies. I love crafting modern, user-friendly apps and exploring innovative solutions in the tech space.
 
 | 🌱 **Currently Learning**  | **Dart**                                               |
 |----------------------------|------------------------------------------------------------------------|
